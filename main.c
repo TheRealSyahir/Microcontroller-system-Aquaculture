@@ -42,7 +42,8 @@ void main(void) {
 
     char message[] = "WASTE, LOW";
     char message1[] = "WASTE, HIGH";
-    char message2[] = "------------";
+    char message2[] = "pH, LOW";
+    char message3[] = "pH, HIGH";
     unsigned char i;
     
     lcdSetPos(1,3);
